@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "939695917362",
+    "project_id": "downpen-ac86c",
+    "storage_bucket": "downpen-ac86c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939695917362:android:654373e7fca7da4a5f2f2b",
+        "android_client_info": {
+          "package_name": "com.example.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939695917362-jd3rqtg15kaneskcl0ac8bf1krg63tm4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.example",
+            "certificate_hash": "50a2318834404ab7be3648da92b3424406704eaa"
+          }
+        },
+        {
+          "client_id": "939695917362-9q3iee2a54sfu7md1peqnfutdgqh8up3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRQkntB38pC-OqvMSxtoiGOwI6Wo591ZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939695917362-9q3iee2a54sfu7md1peqnfutdgqh8up3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
